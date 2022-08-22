@@ -1,2 +1,4 @@
 print("Hello world")
 print("Selamat belajar)
+print("Perubahan pada baris ketiga")
+print("Perubahan pada baris keempat")
